@@ -1,0 +1,13 @@
+.contact-form {
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
+.container {
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+}
+.container-input {
+  margin-bottom: 10px;
+}
